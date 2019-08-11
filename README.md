@@ -1,4 +1,4 @@
-##Secured and Private AI Scholarship Challenge from Facebook
+## Secured and Private AI Scholarship Challenge from Facebook
 
 ![facebook](https://i1.wp.com/blog.udacity.com/wp-content/uploads/2019/05/Social2-FB.png?fit=1200%2C630&ssl=1)
 
