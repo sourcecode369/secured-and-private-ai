@@ -10,7 +10,7 @@ Train smarter AI models by learning to safely and securely use distributed priva
    - `Welcome note to the course and challenge.`
 - [x] Deep Learning with PyTorch
    - `Hands on tutorials and introdutory notes to PyTorch Library.`
-- [ ] Introducing Differential Privacy
+- [x] Introducing Differential Privacy
    - `Basics of Differential Privacy, a method for measuring how operations impact the privacy of data.`
 - [ ] Evaluating the Privacy of a Function
    - `Implementing Differential Privacy in Python.`

@@ -1,4 +1,4 @@
-# private-ai
+# Private-AI
 
 Notebooks for Udacity's Secure and Private AI course.
 
