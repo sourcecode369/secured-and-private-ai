@@ -16,7 +16,7 @@ Train smarter AI models by learning to safely and securely use distributed priva
    - `Implementing Differential Privacy in Python.`
 - [x] Introducing Local and Global Differential Privacy
    - `Applying Differential Privacy to arbitrary algorithms by adding noise to the outputs.`
-- [ ] Differential Privacy for Deep Learning
+- [x] Differential Privacy for Deep Learning
    - `Differential Privacy to Deep Neural Networks`
 - [ ] Federated Learning
    - `Methods for preserving data privacy by training models where the data lives.` 
