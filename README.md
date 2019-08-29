@@ -18,7 +18,7 @@ Train smarter AI models by learning to safely and securely use distributed priva
    - `Applying Differential Privacy to arbitrary algorithms by adding noise to the outputs.`
 - [x] Differential Privacy for Deep Learning
    - `Differential Privacy to Deep Neural Networks`
-- [ ] Federated Learning
+- [x] Federated Learning
    - `Methods for preserving data privacy by training models where the data lives.` 
 - [ ] Secruring Federated Learning
    - `Secure models trained with multi-party computation.`
