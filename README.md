@@ -20,12 +20,14 @@ Train smarter AI models by learning to safely and securely use distributed priva
    - `Differential Privacy to Deep Neural Networks`
 - [x] Federated Learning
    - `Methods for preserving data privacy by training models where the data lives.` 
-- [ ] Secruring Federated Learning
+- [x] Secruring Federated Learning
    - `Secure models trained with multi-party computation.`
-- [ ] Encrypted Deep Learning
+- [x] Encrypted Deep Learning
    - `Performing encryted computation. Building an encrypted database, and generate an encrypted prediction with an encryted neural networkon on an encryted database.`
 
 ### My Badge
 ![badge](https://cdn-images-1.medium.com/max/1200/1*2mVhfnd96rmHVhdi51Q82A.png)
 
 ![fb](https://i.ytimg.com/vi/4YJe8smEngY/maxresdefault.jpg)
+
+#### Course Completed on `29th August 2019`
